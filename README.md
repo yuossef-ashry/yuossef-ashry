@@ -1,53 +1,22 @@
-# 💫 About Me
+# 💫 About Me:
+# Hi there 👋<br><br>I'm Yassef, a Software Development student and aspiring Frontend Developer passionate about creating responsive and user-centered web applications.<br><br>🔹 Building projects with React, JavaScript, HTML, CSS, and modern frontend technologies.<br>🔹 Interested in Web Development, Software Engineering, and UI/UX.<br>🔹 Always learning, improving, and exploring new technologies.<br>🔹 Open to internships, collaborations, and exciting development opportunities.<br><br>### Technologies<br><br>React • JavaScript • HTML • CSS • Java • Python • C++ • SQL • Bootstrap • Tailwind CSS • Git & GitHub<br><br>### Current Goal<br><br>To gain real-world experience, contribute to impactful projects, and grow into a professional Frontend Engineer.<br>
 
-Hi there 👋
 
-I'm Yassef, a Software Development student and aspiring Frontend Developer passionate about building responsive and user-centered web applications.
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/yousuf.mohamed.el.ashry?mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/youssef_alashry_51?igsh=c2l5d2h1MDVoaXMx) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/youssef-mohammed-al-ashry) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@youssefmuhammadalashry1?_r=1&_t=ZS-96rMcDtjYAu) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Yuossef mohammed Al-Ashry) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yassef0100@gmail.com) 
 
-🔹 Building projects with React, JavaScript, HTML, CSS  
-🔹 Interested in Web Development and UI/UX  
-🔹 Always learning and improving my skills  
-🔹 Open to internships and collaboration opportunities  
-
----
-
-## 🛠️ Tech Stack
-
-HTML5 • CSS3 • JavaScript • React • Java • Python • SQL • Bootstrap • Tailwind CSS • Git • GitHub • Figma
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Youssef Mohammed  Al-Ashry‏&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Youssef Mohammed  Al-Ashry‏&theme=ambient_gradient&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Youssef Mohammed  Al-Ashry‏&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Youssef Mohammed  Al-Ashry‏&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🌐 Socials
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Buy Me a Coffee: https://buymeacoffee.com/YoussefMohammedAlAshry) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/PayPal: https://paypal.me/YoussefMohammedAlAshry) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/Patreon: https://patreon.com/YoussefMohammedAlAshry) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/Ko-fi: https://ko-fi.com/YoussefMohammedAlAshry) 
 
-- Facebook: https://facebook.com/YOUR_USERNAME  
-- Instagram: https://instagram.com/YOUR_USERNAME  
-- LinkedIn: https://linkedin.com/in/YOUR_USERNAME  
-- Email: mailto:your.email@gmail.com  
-
----
-
-## 💻 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=ambient_gradient)
-
-![Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=ambient_gradient)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
-
----
-
-## 📊 Profile Views
-
-![Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME)
-
----
-
-## ☕ Support Me (Optional)
-
-- Buy Me a Coffee: https://buymeacoffee.com/YOUR_USERNAME  
-- PayPal: https://paypal.me/YOUR_USERNAME  
-- Ko-fi: https://ko-fi.com/YOUR_USERNAME  
-
----
-
-⭐ Always learning, always building 🚀
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
