@@ -1,14 +1,12 @@
-# Hi there 👋
+# 💫 About Me
 
-I’m Yassef, a Software Development student and aspiring Frontend Developer passionate about building responsive and user-centered web applications.
+Hi there 👋
 
----
+I'm Yassef, a Software Development student and aspiring Frontend Developer passionate about building responsive and user-centered web applications.
 
-## 💡 About Me
-
-🔹 Frontend Developer focused on React and modern web technologies  
-🔹 Passionate about UI/UX and clean, scalable code  
-🔹 Always learning and improving my skills through real projects  
+🔹 Building projects with React, JavaScript, HTML, CSS  
+🔹 Interested in Web Development and UI/UX  
+🔹 Always learning and improving my skills  
 🔹 Open to internships and collaboration opportunities  
 
 ---
@@ -19,46 +17,32 @@ HTML5 • CSS3 • JavaScript • React • Java • Python • SQL • Bootstra
 
 ---
 
-## 🚀 Currently Learning
+## 🌐 Socials
 
-- Advanced React concepts  
-- API integration & async programming  
-- Responsive and modern UI design  
-- Clean architecture for frontend apps  
-
----
-
-## 📌 Featured Projects
-
-> (Add your projects here)
-
-- 🛒 E-commerce Website (React + JS)  
-- 🏥 Hospital Management System (Java)  
-- 💻 Portfolio Website  
-
----
-
-## 🌐 Connect with Me
-
-- GitHub: https://github.com/YOUR_USERNAME  
+- Facebook: https://facebook.com/YOUR_USERNAME  
+- Instagram: https://instagram.com/YOUR_USERNAME  
 - LinkedIn: https://linkedin.com/in/YOUR_USERNAME  
-- Email: your.email@gmail.com  
+- Email: mailto:your.email@gmail.com  
 
 ---
 
-## 📊 GitHub Stats
+## 💻 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=ambient_gradient&hide_border=false)
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=ambient_gradient)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=ambient_gradient&hide_border=false)
+![Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=ambient_gradient)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
 
 ---
 
-## ☕ Support Me
+## 📊 Profile Views
 
-If you like my work, you can support me:
+![Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME)
+
+---
+
+## ☕ Support Me (Optional)
 
 - Buy Me a Coffee: https://buymeacoffee.com/YOUR_USERNAME  
 - PayPal: https://paypal.me/YOUR_USERNAME  
@@ -66,4 +50,4 @@ If you like my work, you can support me:
 
 ---
 
-⭐ *Always learning, always building, always improving.*
+⭐ Always learning, always building 🚀
